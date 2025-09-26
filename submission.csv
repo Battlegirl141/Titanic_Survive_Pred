@@ -1,0 +1,180 @@
+Name,Sex,Age,Survived
+"Moubarek, Master. Halim Gonios (""William George"")",male,,0
+"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0
+"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0
+"Harper, Miss. Annie Jessie ""Nina""",female,6.0,1
+"Nicola-Yarred, Miss. Jamila",female,14.0,0
+"Barber, Miss. Ellen ""Nellie""",female,26.0,1
+"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,1
+"Vander Planke, Mr. Leo Edmondus",male,16.0,0
+"Carr, Miss. Helen ""Ellen""",female,16.0,1
+"Newsom, Miss. Helen Monypeny",female,19.0,1
+"Futrelle, Mr. Jacques Heath",male,37.0,0
+"Kelly, Mr. James",male,44.0,0
+"Lefebre, Miss. Jeannie",female,,0
+"Attalah, Mr. Sleiman",male,30.0,0
+"Fox, Mr. Stanley Hubert",male,36.0,0
+"Lines, Miss. Mary Conover",female,16.0,1
+"Kimball, Mr. Edwin Nelson Jr",male,42.0,0
+"O'Leary, Miss. Hanora ""Norah""",female,,1
+"Montvila, Rev. Juozas",male,27.0,0
+"Porter, Mr. Walter Chamberlain",male,47.0,0
+"Mineff, Mr. Ivan",male,24.0,0
+"Seward, Mr. Frederic Kimber",male,34.0,1
+"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,0
+"Olsvigen, Mr. Thor Anderson",male,20.0,0
+"Risien, Mr. Samuel Beard",male,,0
+"Skoog, Master. Karl Thorsten",male,10.0,0
+"Uruchurtu, Don. Manuel E",male,40.0,0
+"Wilhelms, Mr. Charles",male,31.0,0
+"Skoog, Master. Harald",male,4.0,0
+"Olsson, Miss. Elina",female,31.0,0
+"Petroff, Mr. Nedelio",male,19.0,0
+"Nysten, Miss. Anna Sofia",female,22.0,1
+"Hoyt, Mr. William Fisher",male,,1
+"Harknett, Miss. Alice Phoebe",female,,1
+"Cohen, Mr. Gurshon ""Gus""",male,18.0,0
+"Yasbeck, Mr. Antoni",male,27.0,0
+"Sloper, Mr. William Thompson",male,28.0,1
+"Madigan, Miss. Margaret ""Maggie""",female,,1
+"Serepeca, Miss. Augusta",female,30.0,1
+"Nankoff, Mr. Minko",male,,0
+"Hickman, Mr. Stanley George",male,21.0,0
+"Braund, Mr. Lewis Richard",male,29.0,0
+"Sirota, Mr. Maurice",male,,0
+"Keane, Mr. Andrew ""Andy""",male,,0
+"Barbara, Mrs. (Catherine David)",female,45.0,0
+"Ford, Mr. William Neal",male,16.0,0
+"Crease, Mr. Ernest James",male,19.0,0
+"Odahl, Mr. Nils Martin",male,23.0,0
+"Ali, Mr. Ahmed",male,24.0,0
+"Newell, Mr. Arthur Webster",male,58.0,0
+"Baclini, Miss. Marie Catherine",female,5.0,1
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1
+"Skoog, Mr. Wilhelm",male,40.0,0
+"Carter, Master. William Thornton II",male,11.0,1
+"Duane, Mr. Frank",male,65.0,0
+"Taussig, Miss. Ruth",female,18.0,1
+"Jenkin, Mr. Stephen Curnow",male,32.0,0
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,1
+"Cameron, Miss. Clear Annie",female,35.0,1
+"Devaney, Miss. Margaret Delia",female,19.0,0
+"Birkeland, Mr. Hans Martin Monsen",male,21.0,0
+"Mellinger, Miss. Madeleine Violet",female,13.0,1
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1
+"Baumann, Mr. John D",male,,0
+"Mernagh, Mr. Robert",male,,0
+"Mack, Mrs. (Mary)",female,57.0,1
+"Hood, Mr. Ambrose Jr",male,21.0,0
+"Zimmerman, Mr. Leo",male,29.0,0
+"Elias, Mr. Joseph Jr",male,17.0,0
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1
+"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1
+"Ryerson, Miss. Emily Borie",female,18.0,1
+"Behr, Mr. Karl Howell",male,26.0,1
+"Compton, Miss. Sara Rebecca",female,39.0,1
+"Augustsson, Mr. Albert",male,23.0,0
+"Lindell, Mr. Edvard Bengtsson",male,36.0,0
+"Mangan, Miss. Mary",female,30.5,1
+"Frolicher, Miss. Hedwig Margaritha",female,22.0,1
+"Funk, Miss. Annie Clemmer",female,38.0,1
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,1
+"Panula, Mr. Ernesti Arvid",male,16.0,0
+"Nye, Mrs. (Elizabeth Ramell)",female,29.0,1
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1
+"Kilgannon, Mr. Thomas J",male,,0
+"Smith, Mr. James Clinch",male,56.0,0
+"Artagaveytia, Mr. Ramon",male,71.0,0
+"Newell, Miss. Madeleine",female,31.0,1
+"Francatelli, Miss. Laura Mabel",female,30.0,1
+"Reuchlin, Jonkheer. John George",male,38.0,0
+"Reed, Mr. James George",male,,0
+"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0
+"Andersson, Miss. Ingeborg Constanzia",female,9.0,0
+"Sutton, Mr. Frederick",male,61.0,0
+"Sadlier, Mr. Matthew",male,,0
+"Staneff, Mr. Ivan",male,,0
+"Olsson, Mr. Nils Johan Goransson",male,28.0,0
+"Taylor, Mr. Elmer Zebley",male,48.0,0
+"Dahl, Mr. Karl Edwart",male,45.0,0
+"Ball, Mrs. (Ada E Hall)",female,36.0,1
+"Danoff, Mr. Yoto",male,27.0,0
+"Nicholson, Mr. Arthur Ernest",male,64.0,0
+"Rintamaki, Mr. Matti",male,35.0,0
+"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1
+"Goncalves, Mr. Manuel Estanslas",male,38.0,0
+"Tomlin, Mr. Ernest Portage",male,30.5,0
+"Petterson, Mr. Johan Emil",male,25.0,1
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1
+"Gee, Mr. Arthur H",male,47.0,0
+"de Mulder, Mr. Theodore",male,30.0,0
+"Blank, Mr. Henry",male,40.0,0
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1
+"Lovell, Mr. John Hall (""Henry"")",male,20.5,0
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1
+"McGough, Mr. James Robert",male,36.0,1
+"Farthing, Mr. John",male,,0
+"Gustafsson, Mr. Alfred Ossian",male,20.0,0
+"Goldschmidt, Mr. George B",male,71.0,0
+"Levy, Mr. Rene Jacques",male,36.0,0
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1
+"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,0
+"Hocking, Mr. Richard George",male,23.0,0
+"Bazzani, Miss. Albina",female,32.0,1
+"Andrews, Miss. Kornelia Theodosia",female,63.0,1
+"Caldwell, Master. Alden Gates",male,0.83,1
+"Harmer, Mr. Abraham (David Lishin)",male,25.0,0
+"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0
+"Leader, Dr. Alice (Farnham)",female,49.0,1
+"Giglio, Mr. Victor",male,24.0,0
+"Caram, Mrs. Joseph (Maria Elias)",female,,0
+"Stanley, Mr. Edward Roland",male,21.0,0
+"Mockler, Miss. Helen Mary ""Ellie""",female,,1
+"Moubarek, Master. Gerios",male,,0
+"Frost, Mr. Anthony Wood ""Archie""",male,,0
+"Emanuel, Miss. Virginia Ethel",female,5.0,1
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1
+"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,0
+"Fleming, Miss. Margaret",female,,1
+"Larsson, Mr. Bengt Edvin",male,29.0,0
+"Abbing, Mr. Anthony",male,42.0,0
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,0
+"Kalvik, Mr. Johannes Halvorsen",male,21.0,0
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1
+"Collander, Mr. Erik Gustaf",male,28.0,1
+"Chapman, Mr. John Henry",male,37.0,0
+"Rice, Mrs. William (Margaret Norton)",female,39.0,0
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1
+"Givard, Mr. Hans Kristensen",male,30.0,0
+"Wheadon, Mr. Edward H",male,66.0,1
+"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1
+"Cook, Mr. Jacob",male,43.0,0
+"Paulner, Mr. Uscher",male,,0
+"Coleff, Mr. Satio",male,24.0,0
+"Fischer, Mr. Eberhard Thelander",male,18.0,0
+"Moran, Miss. Bertha",female,,1
+"Moutal, Mr. Rahamin Haim",male,,0
+"Jardin, Mr. Jose Neto",male,,0
+"Foo, Mr. Choong",male,,0
+"McDermott, Miss. Brigdet Delia",female,,1
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1
+"Bourke, Mrs. John (Catherine)",female,32.0,1
+"Hanna, Mr. Mansour",male,23.5,0
+"Bradley, Mr. George (""George Arthur Brayton"")",male,,0
+"Meyer, Mr. August",male,39.0,0
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1
+"Moran, Mr. James",male,,0
+"Ostby, Mr. Engelhart Cornelius",male,65.0,0
+"Pain, Dr. Alfred",male,23.0,0
+"Kenyon, Mrs. Frederick R (Marion)",female,,1
+"Vovk, Mr. Janko",male,22.0,0
+"Asim, Mr. Adola",male,35.0,0
+"Greenfield, Mr. William Bertram",male,23.0,0
+"Silven, Miss. Lyyli Karoliina",female,18.0,1
+"Flynn, Mr. John Irwin (""Irving"")",male,36.0,1
+"Boulos, Miss. Nourelain",female,9.0,1
+"Kallio, Mr. Nikolai Erland",male,17.0,0
+"Elias, Mr. Dibo",male,,0
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,0
+"Ilett, Miss. Bertha",female,17.0,1
+"Sandstrom, Miss. Marguerite Rut",female,4.0,1
