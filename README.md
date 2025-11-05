@@ -30,3 +30,11 @@ Gender and passenger class were strong predictors of survival.
 Feature engineering (e.g., family size, title extraction) improved model performance.
 
 Machine learning models such as Logistic Regression and Random Forest achieved solid predictive accuracy.
+
+## 👤 Author
+
+### Aktan Asanbaev
+
+Data & Process Analyst | Junior Machine Learning Engineer
+
+📧 https://www.linkedin.com/in/aktan-asanbaev-84317b352/
